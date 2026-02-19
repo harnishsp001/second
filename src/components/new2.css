@@ -1,0 +1,137 @@
+*{
+    div{
+       border:
+
+    }
+}
+.main{
+    max-width: 100%;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+}
+.top{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+.t1{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.t2{
+    flex: 1;
+    display:flex ;
+}
+
+.middle{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+.m1{
+    flex: 1;
+    display: flex;
+}
+.m2{
+    flex: 1;
+    display: flex;
+    border: 1px black;
+}
+.m21{
+    flex: 1;
+    display: flex;
+}
+
+.m22{
+    flex: 7 ;
+    display: flex;
+}
+.m3{
+    flex: 1;
+    display: flex;
+}
+.m4{
+    flex: 1;
+    display: flex;
+}
+.m5{
+    flex: 1;
+    display: flex;
+}
+.m51{
+    flex: 1;
+    display: flex;
+}
+.m52{
+    flex: 7;
+    display: flex;
+}
+.m6{
+    flex: 1;
+    display: flex;
+}
+input{
+    width: 100%;
+    height: 100%;
+}
+.bottom{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+.b1{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(69, 69, 164);
+}
+.b2{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.b3{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    
+}
+.b31{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.b32{
+    flex: 1;
+    display: flex;
+    
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.m21 img{
+    object-fit: contain;
+    height: 80%;
+    width: 50%;
+}
+.m51 img{
+    object-fit: contain;
+    height: 80%;
+    width: 50%;
+}
+.b1 button{
+    width: 100%;
+    height: 100%;
+    background-color: blue;
+    color: white;
+}
+
