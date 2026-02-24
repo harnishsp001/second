@@ -1,9 +1,12 @@
-import Second from "./components/pro1"
+//import Second from "./components/pro1"
+import Pro2 from './components/pro2'
 
 function App() {
   return (
     <>
-    <Second/>
+   
+    <Pro2/>
+
     </>
   )
 }

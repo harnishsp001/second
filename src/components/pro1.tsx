@@ -1,7 +1,7 @@
 import './new2.css'
-import img1 from '../assets/star.png'
-import img2 from '../assets/email.svg'
-import img3 from '../assets/lock.svg'
+import img1 from '../assets/star.png.jpeg'
+import img2 from '../assets/h11.svg.svg'
+import img3 from '../assets/icons8.svg.png'
 
 function Pro1() {
     return (

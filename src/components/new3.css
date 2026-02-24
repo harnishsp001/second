@@ -1,0 +1,97 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+   
+}
+
+.main{
+  
+   
+    width: 400px;
+    padding: 30px 25px;
+    border-radius: 10px;
+    text-align: center;
+     border: 1px solid rgb(230, 230, 230);
+     background-color: white;
+     display: flex;
+     flex-direction: column;
+}
+.logo{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 10px;
+    
+}
+h2{
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.title{
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: gray;
+    font-family: sans-serif;
+    
+}
+
+.form-a{
+    text-align: left;
+    margin-bottom: 15px;
+    
+}
+
+label{
+    font-size: 13px;
+
+    font-weight: bold;
+
+}
+
+.input-a{
+    position: relative;
+    background-color:rgb(243, 240, 240);
+    border-radius: 6px;
+    height: 30px;
+   
+}
+
+input{
+    width: 90%;
+    border: none;
+    outline: none;
+     background-color: transparent;
+
+}
+
+button{
+    padding: 12px;
+    border: none;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    background: linear-gradient(to right , blue , violet);
+    color: white;
+}
+a{
+  text-decoration: none;
+  color: blue;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.icon img{
+    width: 20px;
+    height: 15px;
+}
+
